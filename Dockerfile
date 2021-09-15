@@ -8,7 +8,7 @@ RUN xcaddy build \
         --with github.com/caddy-dns/vultr \
         --with github.com/caddy-dns/hetzner \
         --with github.com/caddy-dns/digitalocean \
-        --with github.com/caddy-dns/alidns \
+
         --with github.com/caddy-dns/gandi \
         --with github.com/caddy-dns/duckdns \
         --with github.com/caddy-dns/dnspod \
